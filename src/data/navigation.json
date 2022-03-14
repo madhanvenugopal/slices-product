@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "linkText": "Home",
+        "link":"/"
+    },
+    
+    {
+        "id": 3,
+        "linkText": "About Us",
+        "link":"/about"
+    },
+    {
+        "id": 4,
+        "linkText": "Menu",
+        "link":"/menu-v1"
+    },
+    {
+        "id": 5,
+        "linkText": "Menu",
+        "link": "/menu-v1"
+    },
+    {
+        "id": 6,
+        "linkText": "Contact Us",
+        "link": "/contact"
+    }
+]
